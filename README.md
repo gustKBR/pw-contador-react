@@ -1,5 +1,5 @@
-# pw-contador-react
+# Gustavo Cabral
 
-## Exemplo de componentização em aplicações React
+## PW Contador React
 
 https://gustkbr.github.io/pw-contador-react/
